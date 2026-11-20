@@ -4,3 +4,6 @@ LUA-20261119-1-ST publicado 2026-11-19 08:42
 LUA-20261119-2-IG publicado 2026-11-19 12:10
 LUA-20261119-2-ST publicado 2026-11-19 12:11
 LUA-20261119-2-LI publicado 2026-11-19 12:46 (manual, Taina — documento PDF)
+LUA-20261119-3-IG publicado 2026-11-19 22:58 (manual pelo Claude, a pedido da Taina — tarefa das 17h40 não publicou)
+LUA-20261119-3-LI publicado 2026-11-19 22:58 (idem)
+LUA-20261119-3-ST publicado 2026-11-19 22:58 (idem)
