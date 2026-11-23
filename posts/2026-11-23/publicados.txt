@@ -2,3 +2,4 @@ LUA-20261123-1-LI agendado 2026-11-23 08:30 (LinkedIn nativo, Taina — document
 LUA-20261123-1-IG publicado 2026-11-23 08:42 (carrossel 6 imagens, media id 18440917033199314)
 LUA-20261123-1-ST publicado 2026-11-23 08:43 (story, media id 17978780439140991)
 LUA-20261123-2-IG publicado 2026-11-23 12:10 (imagem única, media id 18090051590708172)
+LUA-20261123-2-LI publicado 2026-11-23 12:10 (imagem, urn:li:share:7530648928833314817)
